@@ -1,0 +1,72 @@
+[
+    {
+        "method": "vLLM",
+        "tokens": 10,
+        "latency_mean": 0.060081768035888675,
+        "latency_std": 0.007072247948376164,
+        "peak_memory_usage": 0,
+        "throughput_mean": 168.81412040952046,
+        "batch_size": 1,
+        "model_load_time": 60.50885844230652
+    },
+    {
+        "method": "vLLM",
+        "tokens": 50,
+        "latency_mean": 0.17364826202392578,
+        "latency_std": 0.02258201697761848,
+        "peak_memory_usage": 0,
+        "throughput_mean": 290.11661902903825,
+        "batch_size": 1,
+        "model_load_time": 60.50885844230652
+    },
+    {
+        "method": "vLLM",
+        "tokens": 100,
+        "latency_mean": 0.17772693634033204,
+        "latency_std": 0.09997217392255378,
+        "peak_memory_usage": 0,
+        "throughput_mean": 319.52590096049573,
+        "batch_size": 1,
+        "model_load_time": 60.50885844230652
+    },
+    {
+        "method": "vLLM",
+        "tokens": 200,
+        "latency_mean": 0.253538179397583,
+        "latency_std": 0.12404444696868622,
+        "peak_memory_usage": 0,
+        "throughput_mean": 327.56021364703184,
+        "batch_size": 1,
+        "model_load_time": 60.50885844230652
+    },
+    {
+        "method": "vLLM",
+        "tokens": 500,
+        "latency_mean": 0.4346506595611572,
+        "latency_std": 0.46913289841776973,
+        "peak_memory_usage": 0,
+        "throughput_mean": 352.1499384726971,
+        "batch_size": 1,
+        "model_load_time": 60.50885844230652
+    },
+    {
+        "method": "vLLM",
+        "tokens": 1000,
+        "latency_mean": 0.7019074440002442,
+        "latency_std": 1.0761317948242337,
+        "peak_memory_usage": 0,
+        "throughput_mean": 309.0487476536008,
+        "batch_size": 1,
+        "model_load_time": 60.50885844230652
+    },
+    {
+        "method": "vLLM",
+        "tokens": 1500,
+        "latency_mean": 1.087493896484375,
+        "latency_std": 1.5681186039739199,
+        "peak_memory_usage": 0,
+        "throughput_mean": 326.9140174283737,
+        "batch_size": 1,
+        "model_load_time": 60.50885844230652
+    }
+]

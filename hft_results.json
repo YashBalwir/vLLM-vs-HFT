@@ -1,0 +1,72 @@
+[
+    {
+        "method": "HFT",
+        "tokens": 10,
+        "latency_mean": 0.8008112430572509,
+        "latency_std": 1.0960737466812134,
+        "memory_usage_mean": 1.8351104000000078,
+        "throughput_mean": 32.376833179302174,
+        "batch_size": 1,
+        "model_load_time": 11.189641237258911
+    },
+    {
+        "method": "HFT",
+        "tokens": 50,
+        "latency_mean": 0.7015058517456054,
+        "latency_std": 0.11107819527387619,
+        "memory_usage_mean": 0.0,
+        "throughput_mean": 72.70913592256679,
+        "batch_size": 1,
+        "model_load_time": 11.189641237258911
+    },
+    {
+        "method": "HFT",
+        "tokens": 100,
+        "latency_mean": 2.007456827163696,
+        "latency_std": 0.8888317346572876,
+        "memory_usage_mean": 0.0001023999999915759,
+        "throughput_mean": 62.96193079551945,
+        "batch_size": 1,
+        "model_load_time": 11.189641237258911
+    },
+    {
+        "method": "HFT",
+        "tokens": 200,
+        "latency_mean": 1.648044967651367,
+        "latency_std": 0.20719411969184875,
+        "memory_usage_mean": 0.00020480000000588916,
+        "throughput_mean": 122.68531019304871,
+        "batch_size": 1,
+        "model_load_time": 11.189641237258911
+    },
+    {
+        "method": "HFT",
+        "tokens": 500,
+        "latency_mean": 4.083357048034668,
+        "latency_std": 0.34742337465286255,
+        "memory_usage_mean": 0.00040960000000040965,
+        "throughput_mean": 123.14025952230395,
+        "batch_size": 1,
+        "model_load_time": 11.189641237258911
+    },
+    {
+        "method": "HFT",
+        "tokens": 1000,
+        "latency_mean": 8.169834661483765,
+        "latency_std": 0.5016425848007202,
+        "memory_usage_mean": 0.0008192000000008193,
+        "throughput_mean": 122.77188163558974,
+        "batch_size": 1,
+        "model_load_time": 11.189641237258911
+    },
+    {
+        "method": "HFT",
+        "tokens": 1500,
+        "latency_mean": 12.12919635772705,
+        "latency_std": 0.21128860116004944,
+        "memory_usage_mean": 0.0008192000000008193,
+        "throughput_mean": 123.69789110681711,
+        "batch_size": 1,
+        "model_load_time": 11.189641237258911
+    }
+]
